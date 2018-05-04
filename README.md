@@ -5,9 +5,9 @@
 # 视频
 # 音频
 其他
-＝
-－表格
-<table border="8" cellpadding="10" bgcolor="green"  cellspacing="0" style="border-collapse:collapse;">
+=  
+- 表格
+<table border="0" cellpadding="10" bgcolor="green"  cellspacing="0" style="border-collapse:collapse;">
    <tr>
       <td>级别定义</td>
       <td>级别</td>
